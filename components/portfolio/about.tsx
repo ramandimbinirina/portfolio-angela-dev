@@ -41,7 +41,7 @@ export function About() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center mb-12">
             <div className="space-y-6 text-lg text-foreground/70 dark:text-white/70 leading-relaxed">
             <p>
-              Je suis un développeur web passionné avec plus de 3 ans d'expérience
+              Je suis un développeuse web passionné avec plus de 3 ans d'expérience
               dans la création d'applications web modernes et performantes. Mon expertise
               couvre le full-stack développement, avec une spécialisation en technologies
               JavaScript/TypeScript et écosystème React.
